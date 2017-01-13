@@ -1,0 +1,9 @@
+D:\WPF\ExcelCompare\ExcelCompare\bin\Debug\ExcelCompare.exe.config
+D:\WPF\ExcelCompare\ExcelCompare\bin\Debug\ExcelCompare.exe
+D:\WPF\ExcelCompare\ExcelCompare\bin\Debug\ExcelCompare.pdb
+D:\WPF\ExcelCompare\ExcelCompare\obj\Debug\ExcelCompare.csprojResolveAssemblyReference.cache
+D:\WPF\ExcelCompare\ExcelCompare\obj\Debug\ExcelCompare.Form1.resources
+D:\WPF\ExcelCompare\ExcelCompare\obj\Debug\ExcelCompare.Properties.Resources.resources
+D:\WPF\ExcelCompare\ExcelCompare\obj\Debug\ExcelCompare.csproj.GenerateResource.Cache
+D:\WPF\ExcelCompare\ExcelCompare\obj\Debug\ExcelCompare.exe
+D:\WPF\ExcelCompare\ExcelCompare\obj\Debug\ExcelCompare.pdb
